@@ -51,7 +51,7 @@ I'm passionate about building scalable and efficient applications and continuous
 ## 📊 GitHub Stats & Language Usage
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&count_private=true&theme=radical" width="47%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&count_private=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam1404&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" />
 </p>
 
@@ -79,9 +79,3 @@ You can find me at:
 ## Real-time GitHub Profile Stats 🕹️
 [Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-
-```
-To dynamically show real-time changes in your GitHub profile (like recent commits, issues, or pull requests), you can integrate [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) like this:
-
-[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&hide_title=true&count_private=true&theme=radical)
-```bash
