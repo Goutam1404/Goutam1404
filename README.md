@@ -20,43 +20,39 @@ Hello there! I am a beginner-level **Full-Stack Web Developer** with a passion f
 
 ## Technologies I Work With 💻
 
-- **Frontend:**  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+-## 🧰 Tech Toolbox
 
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-- **Database:**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/512w/tailwind_css.png" width="50" height="50" alt="Tailwind CSS" />
+</p>
 
 ## About Me 🤔
 
 I'm passionate about building scalable and efficient applications and continuously improving my skills. I am always learning and exploring new technologies, and I love working on personal projects to apply my knowledge.
 
-- 🔭 Currently working on: **Todo Application** using React.js (Frontend), Spring Boot (Backend), and MySQL (Database).
+- 🔭 Not working at current but looking for opportunity .
 - 🌱 Learning more about full-stack development and improving my JavaScript and Java skills.
 - 💬 Ask me about JavaScript, Node.js, React.js, and more.
-- 📫 How to reach me: [Your email] or [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: [goutamkumar9093@gmail.com] or [LinkedIn](https://www.linkedin.com/in/goutam-kumar-aa23a8257/)
 
-- ## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&count_private=true&theme=radical)
 
 ### 💬 Top Languages Used
 
 ## 📊 GitHub Stats & Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&count_private=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam1404&langs_count=10&layout=compact&theme=radical" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&count_private=true&theme=radical" width="47%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam1404&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" />
 </p>
 
 
@@ -76,14 +72,16 @@ Here are a few projects I’ve worked on:
 ## Let's Connect! 🤝
 
 You can find me at:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-username)
+- [LinkedIn](https://www.linkedin.com/in/goutam-kumar-aa23a8257/)
+- [Twitter](https://twitter.com/gautam70477)
 - [Portfolio](https://your-portfolio.com)
 
 ## Real-time GitHub Profile Stats 🕹️
 [Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+
+```
 To dynamically show real-time changes in your GitHub profile (like recent commits, issues, or pull requests), you can integrate [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) like this:
 
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ```bash
-[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
