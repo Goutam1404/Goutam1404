@@ -74,7 +74,7 @@ Here are a few projects I’ve worked on:
 You can find me at:
 - [LinkedIn](https://www.linkedin.com/in/goutam-kumar-aa23a8257/)
 - [Twitter](https://twitter.com/gautam70477)
-- [Portfolio]([https://your-portfolio.com](https://portfolio-goutam-kumars-projects-6fb4225f.vercel.app/))
+- [Portfolio](https://portfolio-goutam-kumars-projects-6fb4225f.vercel.app/)
 
 ## Real-time GitHub Profile Stats 🕹️
 [Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutam1404&show_icons=true&hide_title=true&count_private=true&theme=radical)
